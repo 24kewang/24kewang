@@ -1,8 +1,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=Hello+I'm+Kevin;I+am+a+Computer+Engineering+student"
   alt="Typing Animation" align="center"/>
-
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=24kewang" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=24kewang&layout=compact&langs_count=8&card_width=320" />
+<div>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=24kewang" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=24kewang&layout=compact&langs_count=8&card_width=320" />
+</div>
 
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
