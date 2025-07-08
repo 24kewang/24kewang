@@ -1,7 +1,7 @@
 ## Hi there 👋
-![Java] (https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Firebase] (https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 <!--
 **24kewang/24kewang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
