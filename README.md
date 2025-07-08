@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=Hello+I'm+Kevin;I+am+a+Computer+Engineering+student)\
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=Hello+I'm+Kevin;I+am+a+Computer+Engineering+student)
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=24kewang" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=24kewang&layout=compact&langs_count=8&card_width=320" />
