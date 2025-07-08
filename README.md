@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=Hello+I'm+Kevin;I+am+a+Computer+Engineering+student"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&center=true&multiline=true&random=false&width=650&height=90&lines=Hello+I'm+Kevin;I+am+a+Computer+Engineering+student"
   alt="Typing Animation" />
 </p>
   
