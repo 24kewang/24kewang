@@ -10,7 +10,7 @@
 </p>
 
 # 😀 About Me:
-📗 I am studying Computer Engineering with a minor in Statistics at the University of Illinois at Urbana-Champaign.<br>🌱 I’m currently learning SystemVerilog, Digital System Design, and AI<br>🎺 Fun fact: I love playing the trumpet! Check out my account on Instagram [@trumpettuck](instagram.com/trumpettuck)
+📗 I'm studying Computer Engineering with a minor in Statistics at the University of Illinois at Urbana-Champaign.<br>🌱 I’m currently learning SystemVerilog, Digital System Design, and AI<br>🎺 Fun fact: I love playing the trumpet! Check out my account on Instagram [@trumpettuck](instagram.com/trumpettuck)
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/k.wang_23) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/24kewang) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24kewang@gmail.com) 
