@@ -4,8 +4,6 @@
 </p>
   
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=24kewang" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=24kewang&layout=compact&langs_count=8&card_width=320" />
   <img height=200 align="center" src="https://nirzak-streak-stats.vercel.app/?user=24kewang&theme=light&hide_border=true" />
 </p>
 
