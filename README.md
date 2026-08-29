@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&center=true&multiline=true&random=false&width=650&height=90&lines=Hello+I'm+Kevin;I+am+a+Computer+Engineering+student"
   alt="Typing Animation" />
 </p>
-  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=24kewang&mode=weekly" alt="GitHub Streak" /></a>
 
 # 😀 About Me:
 📗 I'm studying Computer Engineering with a minor in Statistics at the University of Illinois at Urbana-Champaign.<br>🌱 I’m currently learning Operating System Design and AI<br>🎺 Fun fact: I love playing the trumpet! Check out my account on Instagram [@trumpettuck](https://instagram.com/trumpettuck)
