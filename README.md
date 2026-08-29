@@ -3,9 +3,7 @@
   alt="Typing Animation" />
 </p>
   
-<p align="center">
-  <img height=200 align="center" src="https://nirzak-streak-stats.vercel.app/?user=24kewang&theme=light&hide_border=true" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=24kewang&mode=weekly" alt="GitHub Streak" /></a>
 
 # 😀 About Me:
 📗 I'm studying Computer Engineering with a minor in Statistics at the University of Illinois at Urbana-Champaign.<br>🌱 I’m currently learning Operating System Design and AI<br>🎺 Fun fact: I love playing the trumpet! Check out my account on Instagram [@trumpettuck](https://instagram.com/trumpettuck)
